@@ -14,6 +14,4 @@
 
 <h3>💻Creativity, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
 
- <p align='left'>
-   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=fubar2077.fubar2088"></a>
- </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fubar2077&left_color=green&right_color=red)
