@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hello, I'm Grzegorz Kiernozek 🙋‍♂️</h1>
+<h2>💻👨‍💻Unity C# Developer</h2>
+<hr>
 
-<!--
-**FUBAR2077/FUBAR2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>How to reach me:</h3>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/gkiernozek/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:gkiernozek@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+
+<hr>
+
+<h3>💻Creativity, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
+
+ <p align='left'>
+   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=fubar2077.fubar2088"></a>
+ </p>
