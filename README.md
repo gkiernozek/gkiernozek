@@ -5,9 +5,13 @@
 
 <h3>How to reach me:</h3>
 
-<a href="https://www.linkedin.com/in/gkiernozek/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/gkiernozek/</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/gkiernozek/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <br/>
-<a href="mailto:gkiernozek@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> gkiernozek@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gkiernozek/">https://www.linkedin.com/in/gkiernozek/</a>
+<br/>
+<a href="mailto:gkiernozek@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<br/>
+<a href="mailto:gkiernozek@gmail.com">gkiernozek@gmail.com</a>
 
 <hr>
 
