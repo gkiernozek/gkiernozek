@@ -20,5 +20,3 @@
 <hr>
 
 <h3>💻 🤝 👨‍💻</h3> 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fubar2077&left_color=green&right_color=red)
